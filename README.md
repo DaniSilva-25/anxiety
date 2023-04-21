@@ -4,51 +4,40 @@
 ---
 
 
-<p align="center">Isto é uma tradução PT-BR livre. <br> 
+<p align="center">Isto é uma tradução PT-PT livre. <br> 
   <a href="https://ncase.me/anxiety/" target="_blank">Versão original em inglês</a>
 <p>
 
 
 
 <p align="center">Tradutor/Organizador:<br>
-  <a href="https://github.com/lucasgcb" target="_blank">lucasgcb</a>
+  <a href="https://github.com/DaniSilva-25" target="_blank">DaniSilva-25</a>
 </p>
 
-
-<p align="center">Tradutor dos Recursos de Saúde:<br>
-  <a href="https://github.com/lukanvanderlinde" target="_blank">lukanvanderlinde<br></a>
-</p>
-
-<p align="center">
-Revisores:<br>
-  <a href="https://github.com/CebolaBros64" target="_blank">CebolaBros64</a> <br>
-  <a href="https://github.com/ekevoo" target="_blank">Ekevoo</a> <br>
-  <a href="https://github.com/gafanhotoaprendiz" target="_blank">gafanhotoaprendiz</a> <br>
-</p>
 
 ---
 
-# [Jogue a estória interativa aqui!](https://lucasgcb.github.io/anxiety/)
+# [Joga a história interativa aqui!](https://danisilva-25.github.io/anxiety/)
 
 ## Domínio Público
 
 Nicky Case e Monplaisir dedicam, por meio deste documento, todo o seu trabalho original para esta obra ao domínio público, sob a licença [Creative Commons Zero](https://creativecommons.org/choose/zero/).
-Isso significa que: você pode reutilizar e modificar *qualquer* parte da arte / código / música neste jogo, para qualquer propósito, inclusive comercial!
+Isso significa que: podex reutilizar e modificar *qualquer* parte da arte / código / música neste jogo, para qualquer propósito, inclusive comercial!
 
 **P:** Eu tenho que dar atribuição?    
-**R:** Você não tem *obrigação legal* disso, mas seria bem *legal!* <3
+**R:** Não tens *obrigação legal* disso, mas seria bem *fixe!* <3
 
 **P:** Legalmente falando, posso dizer que *eu* criei tudo sozinho?    
-**R:** Sim, do mesmo jeito que você pode dizer que escreveu Frankenstein, por Mary Shelley, ou dizer que tem 13 mamilos.
+**R:** Sim, do mesmo jeito que podes dizer que escreveste Frankenstein, por Mary Shelley, ou dizer que tens 13 mamilos.
 
 **P:** Posso colocar esse jogo em outros sites?
-**R:** Talvez. Apesar de ser, legalmente falando, algo completamente aceitável, muitos sites tem suas próprias regras sobre colocar conteúdo de código aberto/domínio público sem modificações *significantes*. (Mas se for para o *seu site*, pode colocar à vontade!) 
+**R:** Talvez. Apesar de ser, legalmente falando, algo completamente aceitável, muitos sites tem as suas próprias regras sobre colocar conteúdo de código aberto/domínio público sem modificações *significantes*. (Mas se for para o *teu site*, podes colocar à vontade!) 
 
 **P:** Posso vender um port desse jogo para outra plataforma?  
-**R:** Sim! Mas para evitar confusão, eu recomendor marcar seu jogo como "Fan-Made Port", com um link para esse documento onde eu estou explicitamente dizendo que uso comercial é permitido (Exemplo: [Port da Steam de outro jogo meu!](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)) Isso é para evitar acusações de "roubo" pela galera que não está ligada que eu sempre abro e dedico meus projetos ao domínio público.
+**R:** Sim! Mas para evitar confusão, eu recomendo marcar o teu jogo como "Fan-Made Port", com um link para esse documento onde eu estou explicitamente a dizer que uso comercial é permitido (Exemplo: [Port da Steam de outro jogo meu!](https://store.steampowered.com/app/1103210/We_Become_What_We_Behold_FanMade_Port/)) Isso é para evitar acusações de "roubo" pelo pessoal que não sabe que eu sempre abro e dedico os meus projetos ao domínio público.
 
-**P:** Posso transformar esse jogo em um simulador de namoro entre o Humano e o Lobo?   
-**R:** hã
+**P:** Posso transformar esse jogo num simulador de namoro entre o Humano e o Lobo?   
+**R:** aaaaaaaaa
 
 
 ## Créditos Completos
@@ -133,6 +122,5 @@ Programação Extra por [Spacie](https://spacie.me)
 
 B Cavello, EmilyKate McDonough, Glen Chiacchieri, Mikayla Hutchinson, Monica Srivastava, Rowan, Srini Kadamati
 
-**E claro, um grande agradecimento aos [meus fans no Patreon.](https://www.patreon.com/ncase)** Amo cês <3
-
+**E claro, um grande agradecimento aos [meus fans no Patreon.](https://www.patreon.com/ncase)** Amo-vos <3
 
